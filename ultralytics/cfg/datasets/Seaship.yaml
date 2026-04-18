@@ -1,0 +1,12 @@
+path: ../datasets/Seaship # dataset root dir
+train: train/images  # train images 
+val: val/images  # val images 
+
+names:
+  0 : Ore carrier
+  1 : Bulk cargo carrier
+  2 : Container ship
+  3 : General cargo ship
+  4 : Fishing boat
+  5 : Passenger ship
+  6 : Mixed type

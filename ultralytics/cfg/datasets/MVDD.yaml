@@ -1,0 +1,19 @@
+path: ../datasets/MVDD # dataset root dir
+train: images/train #25541
+val: images/val
+test: images/test
+
+names:
+  0: cargo
+  1: tanker
+  2: bulker
+  3: containership
+  4: tug
+  5: fishing
+  6: drill
+  7: passenger
+  8: cruise
+  9: warship
+  10: sailingboat
+  11: submarine
+  12: firefighting

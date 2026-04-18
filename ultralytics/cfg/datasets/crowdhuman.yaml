@@ -1,0 +1,6 @@
+path: ../datasets/crowdhuman  # dataset root dir
+train: train/images  # train images (relative to 'path') 15000images
+val: val/images  # val images (relative to 'path') 4370images
+
+names:
+  0: Person
